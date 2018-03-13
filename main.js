@@ -9,5 +9,5 @@ function add() {
   var one = parseFloat(numOne.value) || 0;
   var two = parseFloat(numTwo.value) || 0;
 
-  addSum.innerHTML = "Your sum is: " + (one+two);
+  addSum.innerHTML = "Your product is: " + (one * two);
 }
