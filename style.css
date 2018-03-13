@@ -1,0 +1,13 @@
+body, html{
+  height:100%;
+}
+.bg{
+  background-image:url("https://static.pexels.com/photos/88149/pexels-photo-88149.jpeg");
+height:100%;
+background-position:top;
+background-repeat: no-repeat;
+background-size:cover;
+}
+p{
+  font-family: monospace;
+}
